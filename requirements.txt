@@ -1,0 +1,7 @@
+fastapi==0.75.2
+ffmpeg_python==0.2.0
+pydantic==1.9.0
+uvicorn==0.17.6
+python-multipart==0.0.5
+pydub==0.25.1
+httpx==0.22.0
