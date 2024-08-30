@@ -22,7 +22,7 @@ Concurrency - currently implemented by declaring path operation functions with '
 
 ### Setup Environment & Install Dependencies:
 
-1. git clone https://github.com/adobiss/resample-web-service
+1. git clone https://github.com/gnai/resample-api
 2. cd project root folder
 2. install virtual environment (below virtual environment instructions are untested and provided for reference):
 	- pip install virtualenv
